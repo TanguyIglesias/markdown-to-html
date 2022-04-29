@@ -4,7 +4,6 @@
 
 *Rien n'est impossible*
 
-![Tanguy Iglesias](/image/moi2.jpg)
 
 ##### Une personne assez calme
 
