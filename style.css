@@ -1,4 +1,25 @@
+body{
+  background-color: dimgrey;
+  color: white;
+}
 img{
-  max-width: 500px;
-  max-height: 530px
+  max-width: 400px;
+  max-height: 430px;
+}
+
+table{
+  border: 1px solid;
+  border-color: black;
+
+}
+
+tr,th{
+  border: 1px solid;
+  border-color: black;
+}
+#Bleu{
+  color: blue;
+}
+h1,h2{
+  color: black;
 }
